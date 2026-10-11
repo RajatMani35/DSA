@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajatMani35/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajatMani35/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajatMani35/DSA/tree/master/0189-rotate-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajatMani35/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/RajatMani35/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Two Pointers
 |  |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4038-count-integers-appearing-in-a-single-block](https://github.com/RajatMani35/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/RajatMani35/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
