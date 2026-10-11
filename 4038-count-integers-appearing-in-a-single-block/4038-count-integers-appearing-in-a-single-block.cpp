@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countSpecialIntegers(vector<int>& nums) {
-        map<int,int> mpp;
+        unordered_map<int,int> mpp;
         // int length=nums.length;
         mpp[nums[0]]=1;
         for(int i=1;i<nums.size();i++){
