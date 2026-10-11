@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RajatMani35/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RajatMani35/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/RajatMani35/DSA/tree/master/0189-rotate-array) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/RajatMani35/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RajatMani35/DSA/tree/master/0001-two-sum) |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/RajatMani35/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RajatMani35/DSA/tree/master/0189-rotate-array) |
+## Counting
+|  |
+| ------- |
+| [4038-count-integers-appearing-in-a-single-block](https://github.com/RajatMani35/DSA/tree/master/4038-count-integers-appearing-in-a-single-block) |
 <!---LeetCode Topics End-->
