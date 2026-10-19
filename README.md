@@ -62,8 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajatMani35/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMani35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/RajatMani35/DSA/tree/master/0198-house-robber) |
+| [1092-shortest-common-supersequence](https://github.com/RajatMani35/DSA/tree/master/1092-shortest-common-supersequence) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajatMani35/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/RajatMani35/DSA/tree/master/1092-shortest-common-supersequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/RajatMani35/DSA/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
